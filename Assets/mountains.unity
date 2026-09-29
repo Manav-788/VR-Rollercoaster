@@ -604,6 +604,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32d01862a63d4e64f9b26ca2db05fa5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mainMenuScene: MainMenu
 --- !u!1 &597601508 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -9018066425641997257, guid: 74aa7837fa3a0c64d9ef80a77a1d245a, type: 3}
